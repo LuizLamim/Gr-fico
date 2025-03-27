@@ -21,5 +21,5 @@ plt.ylabel('y')
 plt.grid(True)
 plt.legend()
 
-# Exibe o gráfico
+# Exibe o gráfico   a  
 plt.show()
